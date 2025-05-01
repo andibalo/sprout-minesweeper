@@ -11,7 +11,7 @@ Install dependencies by running:
 npm install
 ```
 
-Run development server by using the command below:
+Run the program by using the command below:
 ```
 npm start
 ```
